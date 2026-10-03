@@ -1,4 +1,4 @@
-# Intelligent_Document_Processing_System_AWS_Bedrock
+# Intelligent Document Processing System AWS
 In this project, we will build a practical intelligent document processing system that automatically extracts data from forms, invoices, receipts, contracts, etc. We will utilize Python, Amazon Textract, and AWS-managed Amazon Bedrock. 
 
 
@@ -88,5 +88,4 @@ streamlit run streamlitapp.py
 2. Who is Frank Winfield?
 3. What did Frank Winfield invent?
 
-# Intelligent-Document-Processing-System-AWS-
 
