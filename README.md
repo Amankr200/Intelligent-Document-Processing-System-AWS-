@@ -24,6 +24,9 @@ In this project, we will build a practical intelligent document processing syste
 4. Draws bounding boxes over detected lines and display them alongside the raw image.
 5. Deploy Amazon Bedrock (Anthropic Claude v2 LLM) to create a RAG system for Q&A based on the context.
 
+## System Design (How It Works)
+
+![Intelligent Document Processing System (IDPS) - AWS Architecture & Data Flow](./assets/system-design.png)
 
 ### Set up Python Virtual Environment
 ```sh
