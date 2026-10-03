@@ -23,7 +23,7 @@ In this project, I have build a practical intelligent document processing system
 2. Use Boto3 to call Amazon Textract sync API.
 3. Textract parses results and returns text/blocks.
 4. Draws bounding boxes over detected lines and display them alongside the raw image.
-5. Deploy Amazon Bedrock (Anthropic Claude v2 LLM) to create a RAG system for Q&A based on the context.
+5. Deploy Amazon Bedrock (Anthropic Claude LLM) to create a RAG system for Q&A based on the context.
 
 ## System Design (How It Works)
 
